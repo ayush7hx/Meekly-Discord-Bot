@@ -9,7 +9,7 @@ Meekly is a high-performance, multipurpose Discord bot designed for security, mo
 *   🛡️ **Advanced Anti-Nuke**: State-of-the-art protection against server-wide malicious actions.
 *   ⚖️ **Automated Moderation**: Keep your server safe with robust filters and logging.
 *   🔊 **Voice Master**: Dynamic voice channel management for your community.
-*   🤖 **AI Powered**: Integrated with OpenAI and gTTS for intelligent responses and voice interaction.
+*   💬 **Chat and voice**: Optional OpenAI responses and Google TTS voice playback.
 *   📊 **Statistics**: Real-time system and bot statistics using modern Discord UI components.
 *   🎮 **Fun & Games**: Includes features like Chess and interactive utility commands.
 
